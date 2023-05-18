@@ -1,0 +1,15 @@
+{
+    "name": "lovecraft/reverse_php",
+    "autoload": {
+        "psr-4": {
+            "Lovecraft\\ReversePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coldsun",
+            "email": "robotsdontcry92@gmail.com"
+        }
+    ],
+    "require": {}
+}
