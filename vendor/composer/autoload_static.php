@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInitbed9b02248da2cf54c1d5eb0f2185819
 {
     public static $prefixLengthsPsr4 = array (
-        'L' => 
+        'A' => 
         array (
-            'Lovecraft\\ReversePhp\\' => 21,
+            'App\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Lovecraft\\ReversePhp\\' => 
+        'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

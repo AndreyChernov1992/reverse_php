@@ -2,7 +2,7 @@
     "name": "lovecraft/reverse_php",
     "autoload": {
         "psr-4": {
-            "Lovecraft\\ReversePhp\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
