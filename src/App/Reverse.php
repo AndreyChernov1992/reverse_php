@@ -1,7 +1,7 @@
 <?php
-namespace App;
+namespace App\App;
 
-class Strings {
+class Reverse {
     public function reverse($str) {
         $arr = str_split($str);
         $arrReversed = array_reverse($arr);

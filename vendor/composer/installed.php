@@ -3,7 +3,7 @@
         'name' => 'lovecraft/reverse_php',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'e8c1f0fb671af480b3f31328110ab51120813c9e',
+        'reference' => 'c5f23878c0c908d6c56312cf2c6bc55b18962b34',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'lovecraft/reverse_php' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'e8c1f0fb671af480b3f31328110ab51120813c9e',
+            'reference' => 'c5f23878c0c908d6c56312cf2c6bc55b18962b34',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
